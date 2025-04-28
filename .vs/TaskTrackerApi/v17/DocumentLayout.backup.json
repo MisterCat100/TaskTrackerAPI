@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MisterCat100\\source\\repos\\TaskTrackerApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C72B659F-6A12-41D6-B91A-EE8564937108}|TaskTrackerApi.csproj|c:\\users\\mistercat100\\source\\repos\\tasktrackerapi\\model\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72B659F-6A12-41D6-B91A-EE8564937108}|TaskTrackerApi.csproj|solutionrelative:model\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72B659F-6A12-41D6-B91A-EE8564937108}|TaskTrackerApi.csproj|c:\\users\\mistercat100\\source\\repos\\tasktrackerapi\\model\\repositories\\trackertaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72B659F-6A12-41D6-B91A-EE8564937108}|TaskTrackerApi.csproj|solutionrelative:model\\repositories\\trackertaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72B659F-6A12-41D6-B91A-EE8564937108}|TaskTrackerApi.csproj|c:\\users\\mistercat100\\source\\repos\\tasktrackerapi\\model\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72B659F-6A12-41D6-B91A-EE8564937108}|TaskTrackerApi.csproj|solutionrelative:model\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72B659F-6A12-41D6-B91A-EE8564937108}|TaskTrackerApi.csproj|c:\\users\\mistercat100\\source\\repos\\tasktrackerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72B659F-6A12-41D6-B91A-EE8564937108}|TaskTrackerApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72B659F-6A12-41D6-B91A-EE8564937108}|TaskTrackerApi.csproj|c:\\users\\mistercat100\\source\\repos\\tasktrackerapi\\model\\entities\\trackertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72B659F-6A12-41D6-B91A-EE8564937108}|TaskTrackerApi.csproj|solutionrelative:model\\entities\\trackertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72B659F-6A12-41D6-B91A-EE8564937108}|TaskTrackerApi.csproj|c:\\users\\mistercat100\\source\\repos\\tasktrackerapi\\model\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72B659F-6A12-41D6-B91A-EE8564937108}|TaskTrackerApi.csproj|solutionrelative:model\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72B659F-6A12-41D6-B91A-EE8564937108}|TaskTrackerApi.csproj|c:\\users\\mistercat100\\source\\repos\\tasktrackerapi\\controllers\\trackertaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72B659F-6A12-41D6-B91A-EE8564937108}|TaskTrackerApi.csproj|solutionrelative:controllers\\trackertaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72B659F-6A12-41D6-B91A-EE8564937108}|TaskTrackerApi.csproj|c:\\users\\mistercat100\\source\\repos\\tasktrackerapi\\model\\efcore\\trackertaskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72B659F-6A12-41D6-B91A-EE8564937108}|TaskTrackerApi.csproj|solutionrelative:model\\efcore\\trackertaskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MisterCat100\\source\\repos\\TaskTrackerApi\\Model\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Model\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\MisterCat100\\source\\repos\\TaskTrackerApi\\Model\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Model\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:28:49.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MisterCat100\\source\\repos\\TaskTrackerApi\\Model\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Model\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\MisterCat100\\source\\repos\\TaskTrackerApi\\Model\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Model\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:25:04.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MisterCat100\\source\\repos\\TaskTrackerApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MisterCat100\\source\\repos\\TaskTrackerApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:52:45.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrackerTaskController.cs",
+              "DocumentMoniker": "C:\\Users\\MisterCat100\\source\\repos\\TaskTrackerApi\\Controllers\\TrackerTaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrackerTaskController.cs",
+              "ToolTip": "C:\\Users\\MisterCat100\\source\\repos\\TaskTrackerApi\\Controllers\\TrackerTaskController.cs",
+              "RelativeToolTip": "Controllers\\TrackerTaskController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:51:35.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrackerTaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MisterCat100\\source\\repos\\TaskTrackerApi\\Model\\Repositories\\TrackerTaskRepository.cs",
+              "RelativeDocumentMoniker": "Model\\Repositories\\TrackerTaskRepository.cs",
+              "ToolTip": "C:\\Users\\MisterCat100\\source\\repos\\TaskTrackerApi\\Model\\Repositories\\TrackerTaskRepository.cs",
+              "RelativeToolTip": "Model\\Repositories\\TrackerTaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:44:15.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TrackerTaskContext.cs",
+              "DocumentMoniker": "C:\\Users\\MisterCat100\\source\\repos\\TaskTrackerApi\\Model\\EFCore\\TrackerTaskContext.cs",
+              "RelativeDocumentMoniker": "Model\\EFCore\\TrackerTaskContext.cs",
+              "ToolTip": "C:\\Users\\MisterCat100\\source\\repos\\TaskTrackerApi\\Model\\EFCore\\TrackerTaskContext.cs",
+              "RelativeToolTip": "Model\\EFCore\\TrackerTaskContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:47:34.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\MisterCat100\\source\\repos\\TaskTrackerApi\\Model\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Model\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\MisterCat100\\source\\repos\\TaskTrackerApi\\Model\\Entities\\User.cs",
+              "RelativeToolTip": "Model\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:50:37.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrackerTask.cs",
+              "DocumentMoniker": "C:\\Users\\MisterCat100\\source\\repos\\TaskTrackerApi\\Model\\Entities\\TrackerTask.cs",
+              "RelativeDocumentMoniker": "Model\\Entities\\TrackerTask.cs",
+              "ToolTip": "C:\\Users\\MisterCat100\\source\\repos\\TaskTrackerApi\\Model\\Entities\\TrackerTask.cs",
+              "RelativeToolTip": "Model\\Entities\\TrackerTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:48:13.388Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

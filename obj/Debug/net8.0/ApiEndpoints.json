@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "TaskTrackerApi.Controllers.TrackerTaskController",
+    "Method": "CreateTrackerTaskAsync",
+    "RelativePath": "TrackerTask/CreateTrackerTask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "task",
+        "Type": "TaskTrackerApi.Model.Entities.TrackerTask",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskTrackerApi.Controllers.TrackerTaskController",
+    "Method": "DeleteTrackerTaskAsync",
+    "RelativePath": "TrackerTask/DeleteTrackerTask",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskTrackerApi.Controllers.TrackerTaskController",
+    "Method": "GetTrackerTaskAsync",
+    "RelativePath": "TrackerTask/GetTrackerTask",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskTrackerApi.Controllers.TrackerTaskController",
+    "Method": "GetTrackerTasksAsync",
+    "RelativePath": "TrackerTask/GetTrackerTasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskTrackerApi.Controllers.TrackerTaskController",
+    "Method": "UpdateTrackerTaskAsync",
+    "RelativePath": "TrackerTask/UpdateTrackerTask",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "task",
+        "Type": "TaskTrackerApi.Model.Entities.TrackerTask",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
